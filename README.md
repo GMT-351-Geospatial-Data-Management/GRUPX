@@ -124,8 +124,8 @@ const InputClub = () => {
 ![database](\docs\database.png)
 * database visual studio
 ![postman](\docs\Adsız.png)
-* Son hali
-![Console](\docs\Final.png)
+Console log
+![Console](/docs/Final.png)
 
 ## General Tools / References
 
