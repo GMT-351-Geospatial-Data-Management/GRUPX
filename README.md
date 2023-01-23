@@ -123,7 +123,7 @@ const InputClub = () => {
 * Database
 ![database](/docs/database.png)
 * database visual studio
-![postman](\docs\Adsız.png)
+![database](\docs\Adsız.png)
 Console log
 ![Console](/docs/Final.png)
 
