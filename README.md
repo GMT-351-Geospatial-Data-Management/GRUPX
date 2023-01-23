@@ -9,7 +9,7 @@
 ![GitHub pull request](https://img.shields.io/github/issues-pr/Berke0609/Topluluk?style=plastic)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Berke0609/Topluluk?style=plastic)
 ![GitHub contributors](https://img.shields.io/github/contributors/Berke0609/Topluluk?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/Berke0609/Topluluk?style=plastic)
+
 
 
 ## Overview
@@ -121,7 +121,7 @@ const InputClub = () => {
 ## Screenshots
 
 * Database
-![database](\docs\database.png)
+![database](/docs/database.png)
 * database visual studio
 ![postman](\docs\Adsız.png)
 Console log
