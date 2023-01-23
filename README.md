@@ -5,10 +5,6 @@
 - This is a PostgreSQL Express React Node.js (PERN) Stack project.
 - **Frontend**: React, **Backend**: Node.js, **Database**: PostgreSQL
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Berke0609/Topluluk?style=plastic)
-![GitHub pull request](https://img.shields.io/github/issues-pr/Berke0609/Topluluk?style=plastic)
-![GitHub Repo stars](https://img.shields.io/github/stars/Berke0609/Topluluk?style=plastic)
-![GitHub contributors](https://img.shields.io/github/contributors/Berke0609/Topluluk?style=plastic)
 
 
 
